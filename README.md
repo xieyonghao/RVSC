@@ -3,7 +3,7 @@
 ### **[Design and simulation of reference voltage sources circuit in lasers](https://doi.org/10.1002/mop.33143) [MICROWAVE AND OPTICAL TECHNOLOGY LETTERS[bib](https://github.com/xieyonghao/rvsc#citation)]**  
 Jiwe Zhang, [Yonghao Xie](https://github.io/xieyonghao), Mingze Yuan, Mingbao Li*   
 
-we proposed a an improved high-precision voltage source circuit design.the designed voltage source circuit was improved in output voltage accuracy, stability, and noise level, achieving a voltage noise level of 0.978 μV/Hz1/2 at 0.1 mHz at an input voltage of 2V. 
+We proposed a an **improved high-precision voltage source circuit design**. The designed voltage source circuit was improved in **output voltage accuracy, stability, and noise level**, achieving a voltage noise level of 0.978 μV/Hz1/2 at 0.1 mHz at an input voltage of 2V. 
 
 ## Introduction
 <!-- <p align="center">
