@@ -30,7 +30,7 @@ Firstly, a suitable reference voltage source chip is selected, then the excitati
 The designed voltage source circuit was improved in output voltage accuracy, stability, and noise level, achieving a voltage noise level of **0.978 μV/Hz1/2 at 0.1 mHz at an input voltage of 2V**. The validity of the voltage source circuit used for the lasers is verified, providing a high reference value for improving the lasers accuracy in laser spectroscopy. 
 
 <p align="center">
-  <img align="middle" width="600" src="data/noise1.png"/><img align="middle" width="800" src="data/noise2.png"/>
+  <img align="middle" width="600" src="data/noise1.png"/><img align="middle" width="600" src="data/noise2.png"/>
 </p>
 
 
